@@ -15,7 +15,7 @@ const Banner = () => {
                     <p className="lg:text-[20px] text-[#626363] lg:mt-5 mt-4">
                         Immerse yourself in a symphony of delightful notes that dance upon your skin. Our perfumes blend artistry and passion, capturing the essence of femininity and allure. Enchanting aromas transport you to a realm of pure indulgence.
                     </p>
-                    <button className="bg-white text-center text-[#626363] lg:px-10 px-7 py-3 lg:py-5 mt-6 lg:mt-9 shadow-md">
+                    <button className="bg-white text-center text-[#626363] lg:px-12 px-7 py-3 lg:py-5 mt-6 lg:mt-9 shadow-md hover:scale-105 transition-all">
                         Order Now
                     </button>
                 </div>
