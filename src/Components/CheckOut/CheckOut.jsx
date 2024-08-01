@@ -4,7 +4,7 @@ import img3 from "../../assets/checkimg3.png"
 
 const CheckOut = () => {
     return (
-        <div className="mx-2 lg:-mt-40 mt-10 lg:mx-auto max-w-4xl">
+        <div className="mx-2 lg:-mt-40 mt-10 lg:mx-auto max-w-6xl">
             <div className="text-center">
                 <h1 className="jost lg:text-6xl text-5xl uppercase text-[#74909B] font-normal tracking-[5px]">
                     Check our perfumes

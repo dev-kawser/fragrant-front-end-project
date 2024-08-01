@@ -5,6 +5,7 @@ import VideoSection from "../../Components/VideoSection/VideoSection";
 import Testimonial from "../../Components/Testimonial/Testimonial";
 import CheckOut from "../../Components/CheckOut/CheckOut";
 import Features2 from "../../Components/Features2/Features2";
+import Faq from "../../Components/Faq/Faq";
 
 
 const Home = () => {
@@ -17,6 +18,7 @@ const Home = () => {
             <Testimonial></Testimonial>
             <CheckOut></CheckOut>
             <Features2></Features2>
+            <Faq></Faq>
         </div>
     );
 };

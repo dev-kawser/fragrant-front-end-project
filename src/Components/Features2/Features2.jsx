@@ -2,7 +2,7 @@
 
 const Features2 = () => {
     return (
-        <div className="lg:mx-auto max-w-4xl mx-2 mt-10 lg:my-20">
+        <div className="lg:mx-auto max-w-6xl mx-2 mt-10 lg:my-20">
             <div className="grid lg:grid-cols-3 grid-cols-1 gap-5 border-t border-b py-10 border-[#E3E3E3]">
                 <div className="flex flex-col items-center justify-center">
                     <svg xmlns="http://www.w3.org/2000/svg" width="40" height="39" viewBox="0 0 40 39" fill="none">
