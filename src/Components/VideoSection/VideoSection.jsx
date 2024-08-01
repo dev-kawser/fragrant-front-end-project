@@ -1,9 +1,10 @@
-import img from "../../assets/videoimg.png"
+
+import video from "../../assets/video.mp4"
 
 const VideoSection = () => {
     return (
         <div className="lg:mt-40 mt-14">
-            <img src={img} alt="" />
+            <video src={video} controls ></video>
         </div>
     );
 };

@@ -1,10 +1,11 @@
+/* eslint-disable react/no-unescaped-entities */
 
 
 const Testimonial = () => {
 
 
     return (
-        <div className="mx-2 lg:mx-auto max-w-4xl flex justify-center items-center gap-5 lg:gap-10">
+        <div className="mx-2 lg:mx-auto lg:-mt-20 mt-10 max-w-4xl flex justify-center items-center gap-5 lg:gap-10">
             <div>
                 <p className="lg:text-[600px] text-[200px] font-medium text-[#E4EDF1] syne inline">
                     “
@@ -12,7 +13,7 @@ const Testimonial = () => {
             </div>
 
             <div>
-                <p className="lg:text-4xl font-light text-[#626363]">
+                <p className="lg:text-4xl text-xl font-light text-[#626363]">
                     This perfume is a sensory masterpiece! Every time I wear it, I'm enveloped in a cloud of elegance and sophistication. It's become my signature scent.
                 </p>
                 <h3 className="jost lg:text-2xl text-[#74909B] mt-3 lg:mt-5 font-light uppercase tracking-wider">
