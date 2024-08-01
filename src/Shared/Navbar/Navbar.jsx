@@ -24,7 +24,7 @@ const Navbar = () => {
 
     const lgLinks = <>
 
-        <li className="group flex  cursor-pointer flex-col text-[#74909B] font-medium">
+        <li className="group flex  cursor-pointer flex-col text-[#74909B] font-semibold">
             <Link>
                 Home
             </Link>
@@ -76,7 +76,7 @@ const Navbar = () => {
                 <div className="scale-100 cursor-pointer rounded-2xl px-3 py-2 text-xl font-semibold text-white transition-all duration-200 hover:scale-110 tracking-[8px]">
                     <h2 className='jost uppercase font-normal text-[#74909B]'>Fragrant</h2>
                 </div>
-                <ul className="hidden items-center font-light justify-between gap-10 md:flex text-[#626363]">
+                <ul className="hidden items-center font-normal justify-between gap-10 md:flex text-[#626363]">
                     {lgLinks}
                 </ul>
                 <div ref={dropDownMenuRef} onClick={() => setDropDownState(!dropDownState)} className="relative flex transition-transform md:hidden text-[#74909B]">
