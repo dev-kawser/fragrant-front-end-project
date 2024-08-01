@@ -11,7 +11,7 @@ const Faq = () => {
 
     return (
         <div>
-            <div className="w-full lg:mx-auto mx-2 max-w-4xl bg-white p-3">
+            <div className="w-full lg:mx-auto px-2 max-w-4xl bg-white p-3">
 
                 <div className="text-center mb-10">
                     <h1 className="jost lg:text-6xl text-5xl uppercase text-[#74909B] font-normal tracking-[5px]">

@@ -2,7 +2,7 @@ import img from "../../assets/featureimg.png"
 
 const Features = () => {
     return (
-        <div className="font-light mx-2 lg:mx-auto mb-14 max-w-6xl flex lg:flex-row flex-col gap-5 justify-center items-center">
+        <div className="font-light px-2 lg:mx-auto mb-14 max-w-6xl flex lg:flex-row flex-col gap-5 justify-center items-center">
             <div className="lg:space-y-8 space-y-5 text-center">
                 <div className="space-y-1">
                     <h4 className="jost tracking-wider font-normal text-xl lg:text-2xl text-[#74909B] uppercase">

@@ -72,7 +72,7 @@ const Navbar = () => {
 
     return (
         <div className='absolute z-50 w-full'>
-            <nav className="flex items-center justify-between bg-transparent lg:px-20 px-2 py-2 text-white mt-2">
+            <nav className="flex items-center justify-between bg-transparent lg:px-20 px-2 py-3 text-white mt-2">
                 <div className="scale-100 cursor-pointer rounded-2xl px-3 py-2 text-xl font-semibold text-white transition-all duration-200 hover:scale-110 tracking-[8px]">
                     <h2 className='jost text-2xl uppercase font-normal text-[#74909B]'>Fragrant</h2>
                 </div>

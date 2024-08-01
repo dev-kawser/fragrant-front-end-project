@@ -5,7 +5,7 @@ const Testimonial = () => {
 
 
     return (
-        <div className="mx-2 lg:mx-auto lg:-mt-20 mt-10 max-w-4xl flex justify-center items-center gap-5 lg:gap-10">
+        <div className="px-2 lg:mx-auto lg:-mt-20 mt-10 max-w-4xl flex justify-center items-center gap-5 lg:gap-10">
             <div>
                 <p className="lg:text-[600px] text-[200px] font-medium text-[#E4EDF1] syne inline">
                     “

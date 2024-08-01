@@ -7,7 +7,7 @@ import img6 from "../../assets/branimg6.png"
 
 const Branding = () => {
     return (
-        <div className="w-full lg:mx-auto mx-2 max-w-6xl lg:my-20 my-10">
+        <div className="w-full lg:mx-auto px-2 max-w-6xl lg:my-20 my-10">
 
             <div className="text-center mb-10">
                 <h1 className="jost lg:text-6xl text-5xl uppercase text-[#74909B] font-normal tracking-[5px]">
