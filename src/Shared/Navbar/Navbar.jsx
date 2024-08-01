@@ -74,9 +74,9 @@ const Navbar = () => {
         <div className='absolute z-50 w-full'>
             <nav className="flex items-center justify-between bg-transparent lg:px-20 px-2 py-2 text-white mt-2">
                 <div className="scale-100 cursor-pointer rounded-2xl px-3 py-2 text-xl font-semibold text-white transition-all duration-200 hover:scale-110 tracking-[8px]">
-                    <h2 className='jost uppercase font-normal text-[#74909B]'>Fragrant</h2>
+                    <h2 className='jost text-2xl uppercase font-normal text-[#74909B]'>Fragrant</h2>
                 </div>
-                <ul className="hidden items-center font-normal justify-between gap-10 md:flex text-[#626363]">
+                <ul className="hidden text-lg items-center font-normal justify-between gap-10 md:flex text-[#626363]">
                     {lgLinks}
                 </ul>
                 <div ref={dropDownMenuRef} onClick={() => setDropDownState(!dropDownState)} className="relative flex transition-transform md:hidden text-[#74909B]">
