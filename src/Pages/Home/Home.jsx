@@ -6,6 +6,7 @@ import Testimonial from "../../Components/Testimonial/Testimonial";
 import CheckOut from "../../Components/CheckOut/CheckOut";
 import Features2 from "../../Components/Features2/Features2";
 import Faq from "../../Components/Faq/Faq";
+import Branding from "../../Components/Branding/Branding";
 
 
 const Home = () => {
@@ -19,6 +20,7 @@ const Home = () => {
             <CheckOut></CheckOut>
             <Features2></Features2>
             <Faq></Faq>
+            <Branding></Branding>
         </div>
     );
 };
